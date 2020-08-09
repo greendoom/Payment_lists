@@ -1,0 +1,4 @@
+# Ignoring *.exe files
+*.exe
+# Ignoring *.mdb files
+*.mdb
